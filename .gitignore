@@ -1,5 +1,7 @@
+.vs/
 Debug/
 Release/
-*.ncb
-*.suo
-*.user
+playwav/Debug/
+playwav/Release/
+playwavw/Debug/
+playwavw/Release/
