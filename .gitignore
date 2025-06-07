@@ -5,3 +5,6 @@ playwav/Debug/
 playwav/Release/
 playwavw/Debug/
 playwavw/Release/
+
+*.user
+
